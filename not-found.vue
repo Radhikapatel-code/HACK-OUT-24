@@ -13,7 +13,7 @@
 <script>
 export default {
   name: 'NotFound1',
-  head: {
+  metaInfo: {
     title: 'Spotless Hungry Crocodile',
   },
 }
