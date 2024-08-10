@@ -3,3 +3,4 @@ this repo contains code files for our hackout project - 2024 which is based on t
 <br>
 pathway:
 1. we have completed the front end part of our website titled spotless hungry crocodile using html,css and js(react) overnight on VScode and uploaded all the files here
+2. rest of the part is research based as we didnt had much expertise in that particular area 
